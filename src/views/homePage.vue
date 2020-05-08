@@ -45,7 +45,7 @@ export default {
     background-color: rgb(47, 172, 228);
     padding-top: 10px;
     .header-title-banner {
-      width: 1200px;
+      width: 90%;
       height: 74px;
       display: flex;
       align-items: center;
@@ -55,7 +55,7 @@ export default {
     .header-title-nav {
       position: absolute;
       left: 50%;
-      width: 1200px;
+      width: 90%;
       margin-left: -600px;
       margin: 0 auto;
       /deep/.el-menu {
@@ -75,7 +75,7 @@ export default {
     z-index: 3;
     width: 100%;
     .header-nav-box {
-      width: 1200px;
+      width: 90%;
       margin: 0 auto;
       display: flex;
       height: 43px;
